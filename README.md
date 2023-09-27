@@ -14,3 +14,6 @@ Activity 3
 
 ![image](https://github.com/ArnauvGilotra/ArnauvGilotra.github.io/assets/61934622/74c623af-2e24-4ad8-8e23-70366ccf4f39)
 
+Activity 4
+
+![image](https://github.com/ArnauvGilotra/ArnauvGilotra.github.io/assets/61934622/d8b67b87-f94c-4fcb-97d3-c22ad559003c)
